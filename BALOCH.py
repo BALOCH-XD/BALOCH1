@@ -1,2 +1,3 @@
-from BALOCH1 import BALOCH
-BALOCH()
+import os
+os.system('git pull')
+import BALOCH1
