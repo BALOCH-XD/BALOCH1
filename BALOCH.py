@@ -1,2 +1,2 @@
-from BALOCH1 import BALOCH 
-BALOCH()
+from BALOCH1 import BALOCH1
+BALOCH1()
