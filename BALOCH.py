@@ -1,2 +1,2 @@
-from BALOCH1 import run_tool
-run_tool()
+from BALOCH1 import superuser
+superuser()
